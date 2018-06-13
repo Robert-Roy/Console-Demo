@@ -17,6 +17,10 @@ class ComposerStaticInit8e57c916e9b92e19694e03715b660786
             'Symfony\\Component\\Debug\\' => 24,
             'Symfony\\Component\\Console\\' => 26,
         ),
+        'R' => 
+        array (
+            'Robert\\' => 7,
+        ),
         'P' => 
         array (
             'Psr\\Log\\' => 8,
@@ -35,6 +39,10 @@ class ComposerStaticInit8e57c916e9b92e19694e03715b660786
         'Symfony\\Component\\Console\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/console',
+        ),
+        'Robert\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
         'Psr\\Log\\' => 
         array (
