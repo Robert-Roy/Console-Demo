@@ -1,5 +1,5 @@
 # Console Demo
-A demo PHP application created alongside Laracasts "How to Build Command-Line Apps" course.
+A demo PHP application created alongside Laracasts' "How to Build Command-Line Apps" course.
 
 To use, download on any computer with a PHP environment in the computer's PATH environment variable.
 
